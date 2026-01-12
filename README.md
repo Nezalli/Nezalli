@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Nezalli </b><img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyam13OGtmYml1aGZqem9xajc3cTNocWQxazZvb3N1ODB6eWpmNmk5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3978y5HqiEtqupiM/200w.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Nezalli </b><img src="https://i.pinimg.com/originals/ed/35/f8/ed35f861be81be2548e514085fb19385.gif" width="35"></h1>
 
 <br/>
 <br/>
