@@ -10,7 +10,7 @@
 I enjoy working on projects that combine:
 - Artificial Intelligence and Machine Learning concepts  
 - Engineering logic with design-oriented thinking  
-- Exploration, research, and continuous improvement  
+- Exploration, research, and improvement 
 
 What would you find:
 - Academic projects  
