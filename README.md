@@ -12,10 +12,6 @@ I enjoy working on projects that combine:
 - Engineering logic with design-oriented thinking  
 - Exploration, research, and improvement 
 
-What would you find:
-- Academic projects  
-- Experiments and prototypes  
-- Ideas
   
 Thanks for stopping by.
 
